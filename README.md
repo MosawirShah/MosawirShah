@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋,I'm Mosawir Shah (Flutter Devloper)</h1>
+ <h1 align="center">Hi 👋,I'm Mosawir Shah</h1>
 
 - 🔭 I’m currently working on Flutter
 - 🌱 I’m currently learning Backend
